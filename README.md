@@ -4,7 +4,7 @@
 </p>
 
 ## **Overview**
-This repo contains books, courses, and nanodegrees that have helped me in my journey towards becoming an AI Engineer. Organization of content helps me to document my learning experience along the way. If the organization of content helps someone else in their journey then even better. Individual learnings of each of the below sections are within their respective README files 
+This repo contains books, courses, nanodegrees, and libraries that have helped me in my journey towards becoming an AI Engineer. Organization of content helps me to document my learning experience along the way. If the organization of content helps someone else in their journey then even better. Individual learnings of each of the below sections are within their respective README files 
 
 # **Table Of Contents**
 
@@ -14,10 +14,15 @@ This repo contains books, courses, and nanodegrees that have helped me in my jou
 
 
 ### **Courses**
-1. [TBD]()
-   * TBD
+1. [Introduction to computer vision: Udacity]()
+2. [Dr.Mubarak Shah: YouTube ]()
 
 
-### **Nanodegree**
-1. [Computer Vision Nanodegree: Udacity]()
+### **Nanodegrees**
+1. [Computer vision: Udacity]()
+
+
+### **Libraries**
+1. [PyImageSearch]()
+2. [OpenCV]()
 
