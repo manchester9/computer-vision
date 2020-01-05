@@ -14,15 +14,12 @@ This repo contains books, courses, nanodegrees, and libraries that have helped m
 1. [TBD]()
 2. [TBD]()
 
-
 ### **Courses**
 1. [Introduction to computer vision: Udacity]()
 2. [Dr.Mubarak Shah: YouTube ]()
 
-
 ### **Nanodegrees**
 1. [Computer vision: Udacity]()
-
 
 ### **Libraries**
 1. [PyImageSearch]()
