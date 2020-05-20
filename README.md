@@ -11,7 +11,7 @@ This repo contains books, courses, nanodegrees, websites, and libraries that hav
 # **Table Of Contents**
 
 ### **Books**
-1. [TBD]()
+1. [Programming computer vision with python](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms-ebook/dp/B008GCNGVE/ref=sr_1_3?dchild=1&keywords=computer+vision+python&qid=1589988582&sr=8-3)
 2. [TBD]()
 
 ### **Courses**
