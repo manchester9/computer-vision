@@ -12,7 +12,7 @@ This repo contains books, courses, nanodegrees, websites, and libraries that hav
 
 ### **Books**
 1. [Programming computer vision with python](https://www.amazon.com/Programming-Computer-Vision-Python-algorithms-ebook/dp/B008GCNGVE/ref=sr_1_3?dchild=1&keywords=computer+vision+python&qid=1589988582&sr=8-3)
-2. [TBD]()
+2. [Learning OpenCV 3](https://www.amazon.com/Learning-OpenCV-Computer-Vision-Library-ebook/dp/B01MRXIYAN/ref=sr_1_16?dchild=1&keywords=computer+vision+python&qid=1590602680&sr=8-16)
 
 ### **Courses**
 1. [Introduction to computer vision: Udacity]()
