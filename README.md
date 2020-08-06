@@ -31,4 +31,3 @@ This repo contains books, courses, nanodegrees, websites, and libraries that hav
 3. TBD
 4. TBD
 5. TBD
-6. TBD
