@@ -28,4 +28,3 @@ This repo contains books, courses, nanodegrees, websites, and libraries that hav
 ### **Websites**
 1. TBD
 2. TBD
-3. TBD
